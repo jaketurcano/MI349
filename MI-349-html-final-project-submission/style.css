@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.float {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+header {
+    background-color: gray;
+}
+
+header {
+    font-family: "Arial Regular";
+    color: orange;
+}
+
+body {
+    font-family: "Arial Regular";
+    background: white;
+}
+
+div {
+    padding: 10px;
+}
+
+nav {
+    text-align: right;
+}
+
+.marketing {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+p {
+    margin: 10px;
+}
+
+form {
+    margin: 10px;
+}
+
+input{
+    margin: 10px;
+}
+
+a { 
+    color: inherit; 
+    text-decoration: none;
+}
+
+
